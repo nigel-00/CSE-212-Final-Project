@@ -41,7 +41,7 @@ class BinarySearchTree:
     def __init__(self):
         self.root  =  None
 ```
-### Inserting into a Binary Search Tree 
+### Inserting into aa Binary Search Tree 
 -------------------
 There are many ways of inserting into a BST. I will show an example of inserting using a while loop and provide a question to solve the same insertion question using recursion. The comments on the code will help you understand a step by step guide to inserting a node into a BST.
 ```python 
@@ -202,7 +202,9 @@ def insert_on_bst(self, data):
 def insert_on_node(self, data, node):
     
     #your code goes here
+
 ```
+Test cases to check if your method works 
 ```python 
 #Initialize the binary tree 
 my_tree = BinarySearchTree()
@@ -216,9 +218,8 @@ my_tree.insert_on_bst(7)
 for i in my_tree:
     print(i)
 ```
+
 ## Solution 
 ---------------------
 **NB** - Comments in the code will help you understand the solution step by step.
-```python 
-After trying out the problem you can check out the solution and compare.
-[Solution](https://github.com/nigel-00/CSE-212-Final-Project/blob/main/trees_solution.py)
+After trying out the problem you can check out the  [solution](https://github.com/nigel-00/CSE-212-Final-Project/blob/main/trees_solution.py) and compare.

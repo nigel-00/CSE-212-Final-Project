@@ -220,4 +220,4 @@ for i in my_tree:
 ---------------------
 **NB** - Comments in the code will help you understand the solution step by step.
 ```python 
-After you try out the problem you can check out the solution and compare [Solution](
+After trying out the problem you can check out the solution and compare [Solution](https://github.com/nigel-00/CSE-212-Final-Project/blob/main/trees_solution.py)

@@ -1,4 +1,7 @@
 # Data Structures in Python 
+-------
+# Melokuhle Nigel Dube 
+--------
  Welcome to the Data Structures in Python course. If you want to crack the technical interview this should provide the best foundation for success!
  ![Data Structures Image](https://msatechnosoft.in/blog/wp-content/uploads/2018/09/Data-Structure-tutorial-MSA-Technosoft.jpg)
  
